@@ -20,3 +20,7 @@
   -  note and offset
   -  base note E2
   -  separation E3
+ 
+---
+# to do:
+- [ ] 
