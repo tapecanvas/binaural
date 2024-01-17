@@ -23,4 +23,12 @@
  
 ---
 # to do:
-- []  
+- remove excess material
+- modes
+  - switch from note to hz (make it a float?)
+  - separation (cents) - think about this
+- fix param menu detune (4 cent increments instead of expected 1 cent) change from gui works as expected.
+  - make smaller increments in general
+- add individual volume controls (not linked to osc selection - individual knobs)?
+- mono/binaural control (pan)
+
