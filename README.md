@@ -1,5 +1,4 @@
 # two sines, separated by hz.
-two sines, separated by hz.
 - page 1
   - E2 : osc1 freq
   - E3 : osc1 volume
@@ -7,12 +6,12 @@ two sines, separated by hz.
   - E2 : osc2 freq
   - E3 : osc2 volume
 
----
-inspired by: 
+
+# inspired by: 
 - [syntherjack - arduino binaural-beat-generator](https://syntherjack.net/binaural-beat-generator-1-5-arduino/) 
 - and [sines](https://github.com/aidanreilly/sines)
 
----
+
 # to do:
 - remove paging
 - key+enc combos for freq+vol (K2)
